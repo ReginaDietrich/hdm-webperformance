@@ -16,6 +16,10 @@ body {
     margin-right: 40px;
 }
 
+.top_image{
+    height: 500px;
+}
+
 h1 {
     font-size: 40px;
 }
