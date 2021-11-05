@@ -34,13 +34,5 @@ h1 {
 .images img {
     width: 100%;
     height: auto;
-}
-
-.blog {
-    background: linear-gradient(135deg, #eceddc 25%, transparent 25%),
-        linear-gradient(225deg, #eceddc 25%, transparent 25%),
-        linear-gradient(315deg, #eceddc 25%, transparent 25%),
-        linear-gradient(45deg, #eceddc 25%, transparent 25%);
-    background-size: 20px 20px;
-    background-color: #782345;
+    aspect-ratio: 400 / 300;
 }
